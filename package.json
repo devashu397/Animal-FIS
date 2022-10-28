@@ -1,0 +1,27 @@
+{
+  "name": "animal-fis",
+  "version": "1.0.0",
+  "description": "Helps in getting images and facts of different animals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItzAshu397/Animal-FIS.git"
+  },
+  "keywords": [
+    "animal",
+    "animals",
+    "animal-fis"
+  ],
+  "author": "Ashutosh Swamy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ItzAshu397/Animal-FIS/issues"
+  },
+  "homepage": "https://github.com/ItzAshu397/Animal-FIS#readme",
+  "dependencies": {
+    "axios": "^0.27.0"
+  }
+}
